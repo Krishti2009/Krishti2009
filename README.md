@@ -44,9 +44,12 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Krishti2009/Krishti2009/output/snake.svg" alt="Snake animation" />
 
-##### Hi there 👋
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://github.com/Krishti2009/Krishti2009/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 <!--
 **Krishti2009/Krishti2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
